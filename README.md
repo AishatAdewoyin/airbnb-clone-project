@@ -20,57 +20,29 @@ By completing this project, I will:
 - **Version Control:** Git and GitHub
 - **Design Tools:** Figma for UI/UX design
 
-## Requirements
-
-### Project Initialization
-
-- Set up GitHub repository with proper documentation
-- Include comprehensive README with project overview
-
-### UI/UX Design Planning
-
-- Document design goals and key features
-- Create page descriptions for main views
-- Analyze Figma design specifications
-- Identify color schemes and typography
-
-### UI Component Patterns
-
-- Plan reusable UI components
-- Document component architecture
-
-## Best Practices
-
-- **Code Organization:** Maintain clean, modular code structure
-- **Version Control:** Use feature branches and meaningful commit messages
-- **Responsive Design:** Ensure mobile-first approach
-- **Accessibility:** Follow WCAG guidelines
-- **Documentation:** Keep all project documentation updated
-- **Testing:** Implement unit and integration tests
-
 ## UI/UX Design Planning
 
 ### Design Goals
 
-- Create intuitive booking flow
-- Maintain visual consistency
-- Ensure fast loading times
-- Prioritize mobile responsiveness
+- To create intuitive booking flow
+- To maintain visual consistency
+- To ensure fast loading times
+- To prioritize mobile responsiveness
 
 ### Key Features
 
 - Property search and filtering
 - Detailed property viewing
 - Secure checkout process
-- User authentication
+- and user authentication
 
-### Primary Pages
+### The Primary Pages
 
 | Page                   | Description                                                      |
 |------------------------|------------------------------------------------------------------|
 | Property Listing View  | Grid display of available properties with filters                |
 | Listing Detailed View  | Complete property details with images and booking form           |
-| Simple Checkout View   | Streamlined payment and booking confirmatio
+| Simple Checkout View   | Streamlined payment and booking confirmation
 
 ### Importance of User-Friendly Design
 
@@ -92,30 +64,26 @@ A well-designed booking system reduces friction in the user journey, increases c
 - Headings: Circular, Bold (700), 24px-32px
 - Secondary Text: Circular, Book (400), 14px
 
-
 ## UI Component Pattern
 
 ### Planned Components
 
-**Navbar**
+#### Navbar
 
 - Logo
 - Search bar
 - User navigation
 - Responsive menu
 
-**Property Card**
+#### Property Card
 
 - Property image
 - Basic details (price, location, rating)
 - Favorite button
 - Responsive layout
 
-**Footer**
+#### Footer
 
 - Site links
 - Company information
 - Social media links
-- Copyright information
-
-Each component will be designed for reusability and consistency across the application.
